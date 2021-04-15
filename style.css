@@ -1,0 +1,53 @@
+#nav ul li {
+  /* border: 1px solid #000; */
+  padding-left: 20px;
+  font-weight: bold;
+}
+#icon i {
+  padding-left: 20px;
+}
+#heading button {
+  background-color: #735999;
+  color: white;
+  border-radius: 0px;
+}
+
+#heading h1 {
+  font-size: 90px;
+  font-weight: 600;
+}
+
+#second {
+  background-color: #735999;
+}
+
+#second button {
+  border: 1px solid #fff;
+}
+
+#verticaltext {
+  transform: rotate(90deg);
+  transform-origin: left top 0;
+}
+
+#fourth {
+  top: 0;
+}
+
+#fifth img {
+  object-fit: contain;
+  width: 100%;
+}
+
+#sixth {
+  max-width: 600px;
+  margin: auto;
+}
+
+#bg-sixth {
+  background-color: #735999;
+}
+
+#lower-sixth {
+  background-color: #59417c;
+}
